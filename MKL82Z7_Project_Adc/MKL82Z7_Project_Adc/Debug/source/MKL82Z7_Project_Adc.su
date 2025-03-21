@@ -1,0 +1,8 @@
+D:\Embedded C\MKL82Z7_Project_Adc\MKL82Z7_Project_Adc\CMSIS/core_cm0plus.h:733:22:__NVIC_EnableIRQ	16	static
+D:\Embedded C\MKL82Z7_Project_Adc\MKL82Z7_Project_Adc\drivers/fsl_common.h:414:28:EnableIRQ	16	static
+D:\Embedded C\MKL82Z7_Project_Adc\MKL82Z7_Project_Adc\drivers/fsl_gpio.h:155:20:GPIO_PinWrite	24	static
+D:\Embedded C\MKL82Z7_Project_Adc\MKL82Z7_Project_Adc\drivers/fsl_port.h:415:20:PORT_SetPinInterruptConfig	24	static
+../source/MKL82Z7_Project_Adc.c:36:6:delayms	16	static
+../source/MKL82Z7_Project_Adc.c:41:6:initGPIO	8	static
+../source/MKL82Z7_Project_Adc.c:55:6:PORTA_IRQHandler	8	static
+../source/MKL82Z7_Project_Adc.c:67:5:main	8	static

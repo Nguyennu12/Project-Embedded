@@ -1,0 +1,7 @@
+Remove Pin=HD1-1 From Net=PTD4
+Remove Pin=HD1-2 From Net=PTD5
+Remove Pin=JP4-1 From Net=PTD5
+Remove Pin=JP4-2 From Net=PTD4
+Remove Pin=P4-7 From Net=PTD6
+Remove Pin=P4-9 From Net=PTB1
+Remove Pin=P4-11 From Net=PTB0
